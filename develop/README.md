@@ -18,9 +18,18 @@ Task is to build the back end for an e-commerce site by modifying starter code. 
 
 ## Mock-Up
 
-The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
+![E-COMMERCE_BACKEND](./assets/Mockup.PNG)
+
 
 ## Link to the recording video
 
+video 1. https://youtu.be/qiHYI9sIiNQ
+video 2. https://youtu.be/pRPDUCF0KzM
+video 3. https://youtu.be/rpSlWLABfpc
+
 
 ## Github Link
+
+https://github.com/swethareddyl/E-Commerce_Backend.git
+
+
