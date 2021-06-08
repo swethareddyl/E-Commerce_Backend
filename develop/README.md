@@ -24,7 +24,9 @@ Task is to build the back end for an e-commerce site by modifying starter code. 
 ## Link to the recording video
 
 video 1. https://youtu.be/qiHYI9sIiNQ
+
 video 2. https://youtu.be/pRPDUCF0KzM
+
 video 3. https://youtu.be/rpSlWLABfpc
 
 
